@@ -1,0 +1,42 @@
+html{
+    background-color: brown;
+}
+body{
+    margin: 20px;
+    border: 0;
+    padding: 10px;
+    background-color: lemonchiffon;
+}
+
+h1{
+    margin-right: 15px;
+    margin-left: 0;
+    border-bottom: 5px solid orange;
+    padding: 10px;
+    color: blue;
+    
+}
+img{
+    margin-left:45%;
+    margin-right:auto;
+    display: block;
+}
+
+h2{
+    margin-top: 15px;
+    margin-left: 0;
+    border: 2px solid indianred;
+    padding: 10px;
+    background-color: gold;
+    color: black;
+
+}
+
+p{
+    margin-top: 10px;
+    margin-left: 0;
+    border: 2px solid peru;
+    padding: 10px;
+    text-align: justify;
+
+}
